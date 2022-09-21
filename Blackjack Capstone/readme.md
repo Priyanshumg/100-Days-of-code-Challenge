@@ -17,3 +17,6 @@ Now the computer asks user if he wants a card or not, User have to decide. <br /
 Now once user say yes the dealer will give a card randomly from the deck. <br />
 if no the total_value function will compare the total value of the decks that dealer has and player's. <br /> 
 Now the function decides who will win by comparing it with rules and will display the ans.
+
+![Alt text](https://github.com/Priyanshumg/100-Days-of-code-Challenge/blob/main/Blackjack%20Capstone/BlackJack%20Capstone.jpg?raw=true "Title")
+
