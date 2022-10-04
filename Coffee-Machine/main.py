@@ -74,13 +74,13 @@ while True:
         print(f"milk : {milk} liters")
         print(f"coffee : {coffee}grams")
         print(f"Money : ${money}")
-    elif user_input == "exit":
+    elif user_input == "off":
         break
 
     elif user_input != "espresso" or \
             user_input != "latte" or \
             user_input != "cappuccino" or \
-            user_input != "exit" or \
+            user_input != "off" or \
             user_input != "report":
         print("invalid input please use valid input")
 
