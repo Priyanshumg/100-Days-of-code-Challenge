@@ -70,9 +70,9 @@ while True:
         device(user_input)
 
     elif user_input == "report":
-        print(f"water : {water}")
-        print(f"milk : {milk}")
-        print(f"coffee : {coffee}")
+        print(f"water : {water} liters")
+        print(f"milk : {milk} liters")
+        print(f"coffee : {coffee}grams")
         print(f"Money : ${money}")
     elif user_input == "exit":
         break
