@@ -46,7 +46,7 @@ def resources_checker(dish):
     if coffee < MENU[dish]["ingredients"]["coffee"]:
         return "sorry their is not enough coffee in machine"
     if milk < MENU[dish]["ingredients"]["milk"]:
-        return "sorry their is not enough coffee in machine"
+        return "sorry their is not enough milk in machine"
 
 
 def device(dish):
